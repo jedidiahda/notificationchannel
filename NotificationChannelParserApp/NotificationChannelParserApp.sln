@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationChannelParserApp", "NotificationChannelParserApp\NotificationChannelParserApp.csproj", "{9C429FD0-16B9-4FC4-BA75-ABB62E7CB498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C429FD0-16B9-4FC4-BA75-ABB62E7CB498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C429FD0-16B9-4FC4-BA75-ABB62E7CB498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C429FD0-16B9-4FC4-BA75-ABB62E7CB498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C429FD0-16B9-4FC4-BA75-ABB62E7CB498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B4EC20C-E8B3-4056-9D7B-30F06D0C1EBA}
+	EndGlobalSection
+EndGlobal
