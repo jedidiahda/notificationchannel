@@ -16,4 +16,4 @@ obj
 */bin
 */debug
 
-*/.vs
+#*/.vs
