@@ -1,5 +1,9 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+.vs
+.vscode
+.metadata
+
 # System files
 .DS_Store
 Thumbs.db
@@ -7,3 +11,9 @@ Thumbs.db
 # Visual Studio
 bin
 obj
+
+*/packages
+*/bin
+*/debug
+
+NotificationChannelParserApp/.vs
