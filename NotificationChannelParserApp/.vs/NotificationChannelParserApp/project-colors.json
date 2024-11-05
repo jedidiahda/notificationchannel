@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c429fd0-16b9-4fc4-ba75-abb62e7cb498": {
+      "ProjectGuid": "9c429fd0-16b9-4fc4-ba75-abb62e7cb498",
+      "DisplayName": "NotificationChannelParserApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
